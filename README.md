@@ -34,7 +34,3 @@ The Software Engineering Bootcamp at HyperionDev provides hands-on training in s
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template further to include more specific details about your project or bootcamp. Let me know if you need further assistance!
